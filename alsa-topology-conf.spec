@@ -1,6 +1,6 @@
 Name:		alsa-topology-conf
 Summary:	Topology configuration for ALSA
-Version:	1.2.4
+Version:	1.2.5
 Release:	1
 License:	BSD 3-clause
 Source0:	https://www.alsa-project.org/files/pub/lib/alsa-topology-conf-%{version}.tar.bz2
